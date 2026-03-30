@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be attending Complexity72h in London (June 22-26)
+I will be attending <a href='https://www.complexitynextgen.org/complexity72h/'>Complexity72h</a> in London (June 22-26)

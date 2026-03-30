@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am now a PhD student in computer science at Uppsala University!
+I have joined <a href='https://uuinfolab.github.io'>InfoLab</a> as a PhD student 
