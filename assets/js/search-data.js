@@ -440,8 +440,8 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-i-am-now-a-phd-student-in-computer-science-at-uppsala-university",
-          title: 'I am now a PhD student in computer science at Uppsala University!',
+            },},{id: "news-i-have-joined-infolab-as-a-phd-student",
+          title: 'I have joined InfoLab as a PhD student',
           description: "",
           section: "News",},{id: "news-i-will-be-attending-the-lake-como-school-on-complex-networks-may-18-22",
           title: 'I will be attending the Lake Como School on complex networks (May 18-22)...',
