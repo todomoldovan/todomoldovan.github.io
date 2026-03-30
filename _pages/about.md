@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at <a href='https://uuinfolab.github.io'>InfoLab</a>, Uppsala University
+subtitle: Computer Science PhD Student at <a href='https://uuinfolab.github.io'>InfoLab</a>, Uppsala University
 
 profile:
   align: right
