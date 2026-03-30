@@ -10,8 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p><a href='mailto:theodora.moldovan@it.uu.se'>Email</a></p>
+    <br>
     <p><a href='https://uuinfolab.github.io'>Bluesky</a></p>
+    <br>
     <p><a href='https://orcid.org/my-orcid?orcid=0000-0003-4769-572X'>ORCID</a></p>
+    <br>
     <p><a href='https://scholar.google.com/citations?user=4iUegEcAAAAJ&hl=en'>Google Scholar</a></p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
