@@ -11,9 +11,9 @@ profile:
   more_info: >
     <p><a href='mailto:theodora.moldovan@it.uu.se'>Email</a></p>
     <br>
-    <p><a href='https://uuinfolab.github.io'>Bluesky</a></p>
+    <p><a href='https://bsky.app/profile/theamoldovan.bsky.social'>Bluesky</a></p>
     <br>
-    <p><a href='https://orcid.org/my-orcid?orcid=0000-0003-4769-572X'>ORCID</a></p>
+    <p><a href='https://orcid.org/0000-0003-4769-572X'>ORCID</a></p>
     <br>
     <p><a href='https://scholar.google.com/citations?user=4iUegEcAAAAJ&hl=en'>Google Scholar</a></p>
 
