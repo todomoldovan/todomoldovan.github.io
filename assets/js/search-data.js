@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "This page displays the list of courses I am currently teaching. Check my [resume](/cv/) for a full list of courses I have assisted on.",
+          description: "This page displays the list of courses I am currently teaching. Check my resume for a full list of courses I have assisted on.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
