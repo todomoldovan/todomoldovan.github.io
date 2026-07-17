@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Computer Science PhD Student at <a href='https://uuinfolab.github.io'>InfoLab</a>, Uppsala University
+subtitle: PhD Student at <a href='https://uuinfolab.github.io'>InfoLab</a>, Department of Information Technology, Uppsala University
 
 profile:
   align: right
@@ -31,4 +31,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-My research focuses on fairness in social network analysis.
+My research focuses on fairness in social network analysis. Currently, I am studying social stratification in population-scale networks.
