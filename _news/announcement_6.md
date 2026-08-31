@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I will be presenting my current PhD work on social stratification in population-scale networks and my master's thesis work on podcasts as a medium for collective action at <a href='https://nosocss.org/conference.html'>CS2Nordics</a>
+I will be presenting my ongoing work on social stratification in population-scale networks at <a href='https://nosocss.org/conference.html'>CS2Nordics</a>
